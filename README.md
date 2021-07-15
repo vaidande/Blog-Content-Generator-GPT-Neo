@@ -1,1 +1,1 @@
-# Blog-Content-Generator---GPT-Neo
+# Blog-Content-Generator-GPT-Neo
